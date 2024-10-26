@@ -1,0 +1,9 @@
+{
+  "yellow_threshold": 0.5,
+  "green_threshold_1": 0.15,
+  "green_threshold_2": 0.75,
+  "green_threshold_3": 2.0,
+  "cliff_threshold_1": 40.0,
+  "cliff_threshold_2": 55.0,
+  "dpi_resolution": 600.0
+}
