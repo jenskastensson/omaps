@@ -5,7 +5,7 @@ The Lidar files: https://geoservices.ign.fr/lidarhd
 Windows PS cmd:
 docker run --rm -it --name cassini -v "${PWD}:/app" nicorio42/cassini  --batch
 
-In the map folders, there are usually 2 map versions, one is the default Cassini, one custom (green!): 
+In the map folders, there might be 2 versions of the map, one using Cassini default settings, plus another with custom  
 1. config-default.json -> merged-map-default.png
 1. config.json -> merged-map-config.png
 
