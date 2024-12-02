@@ -1,0 +1,6 @@
+https://storage.sbg.cloud.ovh.net/v1/AUTH_63234f509d6048bca3c9fd7928720ca1/ppk-lidar/RQ/LHD_FXX_1019_6288_PTS_C_LAMB93_IGN69.copc.laz
+https://storage.sbg.cloud.ovh.net/v1/AUTH_63234f509d6048bca3c9fd7928720ca1/ppk-lidar/RQ/LHD_FXX_1018_6288_PTS_C_LAMB93_IGN69.copc.laz
+https://storage.sbg.cloud.ovh.net/v1/AUTH_63234f509d6048bca3c9fd7928720ca1/ppk-lidar/RQ/LHD_FXX_1018_6287_PTS_C_LAMB93_IGN69.copc.laz
+https://storage.sbg.cloud.ovh.net/v1/AUTH_63234f509d6048bca3c9fd7928720ca1/ppk-lidar/RQ/LHD_FXX_1017_6287_PTS_C_LAMB93_IGN69.copc.laz
+https://storage.sbg.cloud.ovh.net/v1/AUTH_63234f509d6048bca3c9fd7928720ca1/ppk-lidar/RQ/LHD_FXX_1017_6286_PTS_C_LAMB93_IGN69.copc.laz
+https://storage.sbg.cloud.ovh.net/v1/AUTH_63234f509d6048bca3c9fd7928720ca1/ppk-lidar/RQ/LHD_FXX_1018_6286_PTS_C_LAMB93_IGN69.copc.laz
