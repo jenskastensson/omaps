@@ -1,0 +1,425 @@
+﻿<course-scribe-event>
+  <event id="1">
+    <title>Nationale SO MD</title>
+    <map kind="bitmap" scale="10000" dpi="600" absolute-path="C:\Users\jeka\Documents\OpenHAB\source\omaps\laure-minervois\merged-map.png">merged-map.png</map>
+    <standards map="2017" description="2018" />
+    <all-controls print-scale="7500" description-kind="symbols" />
+    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="318.279572" right="599.990234" bottom="95.58506" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <numbering start="31" disallow-invertible="false" />
+    <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
+    <course-appearance scale-sizes="RelativeToMap" scale-sizes-circle-gaps="true" number-font="Roboto" auto-leg-gap-size="3.5" blend-purple="true" blend-style="blend" />
+    <descriptions lang="en" color="black" />
+    <ocad overprint-colors="false" />
+  </event>
+  <control id="1" kind="start">
+    <location x="487.960144" y="241.423965" />
+  </control>
+  <control id="2" kind="normal">
+    <code>31</code>
+    <location x="496.106232" y="240.961975" />
+  </control>
+  <control id="3" kind="normal">
+    <code>32</code>
+    <location x="495.507019" y="227.094482" />
+  </control>
+  <control id="4" kind="normal">
+    <code>33</code>
+    <location x="515.366638" y="218.3631" />
+  </control>
+  <control id="5" kind="normal">
+    <code>34</code>
+    <location x="520.459" y="207.791016" />
+  </control>
+  <control id="6" kind="normal">
+    <code>35</code>
+    <location x="529.789551" y="200.343658" />
+  </control>
+  <control id="7" kind="normal">
+    <code>36</code>
+    <location x="535.35376" y="192.7251" />
+  </control>
+  <control id="8" kind="normal">
+    <code>37</code>
+    <location x="539.805" y="191.013062" />
+  </control>
+  <control id="9" kind="normal">
+    <code>38</code>
+    <location x="536.3819" y="173.683212" />
+  </control>
+  <control id="10" kind="normal">
+    <code>39</code>
+    <location x="541.1102" y="152.410355" />
+  </control>
+  <control id="11" kind="normal">
+    <code>40</code>
+    <location x="536.284851" y="149.417984" />
+  </control>
+  <control id="13" kind="finish">
+    <location x="551.8427" y="152.508636" />
+    <description box="all" iof-2004-ref="14.3" />
+  </control>
+  <control id="14" kind="start">
+    <location x="555.6062" y="154.904587" />
+  </control>
+  <control id="15" kind="finish">
+    <location x="475.745483" y="242.559448" />
+    <description box="all" iof-2004-ref="14.3" />
+  </control>
+  <control id="16" kind="normal">
+    <code>41</code>
+    <location x="468.23114" y="250.286652" />
+  </control>
+  <control id="17" kind="normal">
+    <code>42</code>
+    <location x="491.153534" y="245.997787" />
+  </control>
+  <control id="18" kind="normal">
+    <code>43</code>
+    <location x="486.6208" y="254.562714" />
+  </control>
+  <control id="19" kind="normal">
+    <code>44</code>
+    <location x="474.978943" y="265.348541" />
+  </control>
+  <control id="20" kind="normal">
+    <code>45</code>
+    <location x="466.418762" y="262.181274" />
+  </control>
+  <control id="21" kind="normal">
+    <code>46</code>
+    <location x="472.4965" y="255.846741" />
+  </control>
+  <control id="22" kind="normal">
+    <code>47</code>
+    <location x="581.6129" y="163.778931" />
+  </control>
+  <control id="23" kind="normal">
+    <code>48</code>
+    <location x="571.6676" y="175.3302" />
+  </control>
+  <control id="24" kind="normal">
+    <code>49</code>
+    <location x="551.1232" y="188.85527" />
+  </control>
+  <control id="25" kind="normal">
+    <code>50</code>
+    <location x="540.71344" y="209.23497" />
+  </control>
+  <control id="26" kind="normal">
+    <code>51</code>
+    <location x="550.8099" y="235.836014" />
+  </control>
+  <control id="27" kind="normal">
+    <code>52</code>
+    <location x="553.857056" y="254.098587" />
+  </control>
+  <control id="28" kind="normal">
+    <code>53</code>
+    <location x="518.4425" y="260.829254" />
+  </control>
+  <control id="29" kind="normal">
+    <code>54</code>
+    <location x="502.341858" y="247.876053" />
+  </control>
+  <control id="30" kind="normal">
+    <code>55</code>
+    <location x="532.2992" y="236.845291" />
+  </control>
+  <control id="31" kind="normal">
+    <code>56</code>
+    <location x="565.249756" y="166.4938" />
+  </control>
+  <control id="32" kind="normal">
+    <code>57</code>
+    <location x="577.604248" y="177.572372" />
+  </control>
+  <control id="33" kind="normal">
+    <code>58</code>
+    <location x="516.9165" y="248.75827" />
+  </control>
+  <control id="34" kind="normal">
+    <code>59</code>
+    <location x="476.512146" y="260.2288" />
+  </control>
+  <control id="35" kind="normal">
+    <code>60</code>
+    <location x="542.8961" y="135.658813" />
+  </control>
+  <control id="36" kind="normal">
+    <code>61</code>
+    <location x="554.728" y="163.595016" />
+  </control>
+  <control id="37" kind="normal">
+    <code>62</code>
+    <location x="583.8882" y="194.876114" />
+  </control>
+  <control id="38" kind="normal">
+    <code>63</code>
+    <location x="552.2155" y="200.183441" />
+  </control>
+  <control id="39" kind="normal">
+    <code>64</code>
+    <location x="519.192749" y="228.369843" />
+  </control>
+  <control id="57" kind="normal">
+    <code>70</code>
+    <location x="533.0753" y="181.935837" />
+    <gaps scale="10000">01111111111111111111111111111111</gaps>
+    <circle-gaps scale="10000">-6.67172241:1.84468758</circle-gaps>
+  </control>
+  <control id="56" kind="normal">
+    <code>69</code>
+    <location x="479.37912" y="249.533173" />
+  </control>
+  <control id="55" kind="normal">
+    <code>68</code>
+    <location x="489.44693" y="248.875153" />
+  </control>
+  <control id="54" kind="normal">
+    <code>67</code>
+    <location x="528.779968" y="210.432632" />
+  </control>
+  <control id="53" kind="normal">
+    <code>66</code>
+    <location x="544.30896" y="188.5868" />
+  </control>
+  <control id="52" kind="normal">
+    <code>65</code>
+    <location x="542.2033" y="160.160919" />
+  </control>
+  <control id="47" kind="start">
+    <location x="576.737366" y="151.0672" />
+  </control>
+  <control id="48" kind="normal">
+    <code>71</code>
+    <location x="562.818054" y="166.38443" />
+  </control>
+  <control id="49" kind="normal">
+    <code>72</code>
+    <location x="543.382751" y="175.09433" />
+  </control>
+  <control id="51" kind="normal">
+    <code>73</code>
+    <location x="571.2889" y="153.307281" />
+  </control>
+  <course id="1" kind="normal" order="1">
+    <name>To Start</name>
+    <labels label-kind="sequence" />
+    <first course-control="1" />
+    <print-area automatic="true" restrict-to-page-size="true" left="440.987152" top="298.867126" right="598.53064" bottom="76.1726151" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <options print-scale="7500" hide-from-reports="false" description-kind="symbols" />
+  </course>
+  <course id="2" kind="normal" order="2">
+    <name>3k</name>
+    <labels label-kind="sequence" />
+    <first course-control="65" />
+    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="322.574982" right="599.990234" bottom="99.88047" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <options print-scale="7500" hide-from-reports="false" description-kind="symbols" />
+  </course>
+  <course id="3" kind="normal" order="3">
+    <name>2k</name>
+    <labels label-kind="sequence" />
+    <first course-control="32" />
+    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="322.080231" right="599.990234" bottom="99.38572" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <options print-scale="7500" hide-from-reports="false" description-kind="symbols" />
+  </course>
+  <course id="5" kind="normal" order="4">
+    <name>Vert</name>
+    <labels label-kind="sequence" />
+    <first course-control="67" />
+    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="318.279572" right="599.990234" bottom="95.58506" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <options print-scale="7500" hide-from-reports="false" description-kind="symbols" />
+  </course>
+  <course-control id="1" control="1">
+    <next course-control="2" />
+  </course-control>
+  <course-control id="2" control="2">
+    <next course-control="3" />
+  </course-control>
+  <course-control id="3" control="3">
+    <next course-control="4" />
+  </course-control>
+  <course-control id="4" control="4">
+    <next course-control="5" />
+  </course-control>
+  <course-control id="5" control="5">
+    <next course-control="6" />
+  </course-control>
+  <course-control id="6" control="6">
+    <next course-control="7" />
+  </course-control>
+  <course-control id="7" control="7">
+    <next course-control="8" />
+  </course-control>
+  <course-control id="8" control="57">
+    <next course-control="9" />
+  </course-control>
+  <course-control id="9" control="9">
+    <next course-control="10" />
+  </course-control>
+  <course-control id="10" control="10">
+    <next course-control="11" />
+  </course-control>
+  <course-control id="11" control="11">
+    <next course-control="46" />
+  </course-control>
+  <course-control id="13" control="13" />
+  <course-control id="65" control="14">
+    <next course-control="66" />
+  </course-control>
+  <course-control id="15" control="15" />
+  <course-control id="17" control="16">
+    <next course-control="15" />
+  </course-control>
+  <course-control id="19" control="17">
+    <next course-control="20" />
+  </course-control>
+  <course-control id="20" control="18">
+    <next course-control="21" />
+  </course-control>
+  <course-control id="21" control="19">
+    <next course-control="22" />
+  </course-control>
+  <course-control id="22" control="20">
+    <next course-control="23" />
+  </course-control>
+  <course-control id="23" control="21">
+    <next course-control="17" />
+  </course-control>
+  <course-control id="24" control="22">
+    <next course-control="25" />
+  </course-control>
+  <course-control id="25" control="23">
+    <next course-control="62" />
+  </course-control>
+  <course-control id="26" control="24">
+    <next course-control="27" />
+  </course-control>
+  <course-control id="27" control="25">
+    <next course-control="28" />
+  </course-control>
+  <course-control id="28" control="26">
+    <next course-control="29" />
+  </course-control>
+  <course-control id="29" control="27">
+    <next course-control="30" />
+  </course-control>
+  <course-control id="30" control="28">
+    <next course-control="31" />
+  </course-control>
+  <course-control id="31" control="29">
+    <next course-control="19" />
+  </course-control>
+  <course-control id="32" control="14">
+    <next course-control="42" />
+  </course-control>
+  <course-control id="33" control="17">
+    <next course-control="36" />
+  </course-control>
+  <course-control id="34" control="16">
+    <next course-control="35" />
+  </course-control>
+  <course-control id="35" control="15" />
+  <course-control id="36" control="18">
+    <next course-control="45" />
+  </course-control>
+  <course-control id="37" control="21">
+    <next course-control="34" />
+  </course-control>
+  <course-control id="38" control="24">
+    <next course-control="39" />
+  </course-control>
+  <course-control id="39" control="25">
+    <next course-control="40" />
+  </course-control>
+  <course-control id="40" control="30">
+    <next course-control="44" />
+  </course-control>
+  <course-control id="41" control="29">
+    <next course-control="33" />
+  </course-control>
+  <course-control id="42" control="31">
+    <next course-control="43" />
+  </course-control>
+  <course-control id="43" control="32">
+    <next course-control="38" />
+  </course-control>
+  <course-control id="44" control="33">
+    <next course-control="41" />
+  </course-control>
+  <course-control id="45" control="34">
+    <next course-control="37" />
+  </course-control>
+  <course-control id="46" control="35">
+    <next course-control="13" />
+  </course-control>
+  <course-control id="70" control="53">
+    <next course-control="71" />
+  </course-control>
+  <course-control id="71" control="8">
+    <next course-control="72" />
+  </course-control>
+  <course-control id="72" control="54">
+    <next course-control="73" />
+  </course-control>
+  <course-control id="69" control="52">
+    <next course-control="70" />
+  </course-control>
+  <course-control id="73" control="39">
+    <next course-control="79" />
+  </course-control>
+  <course-control id="79" control="17">
+    <next course-control="75" />
+  </course-control>
+  <course-control id="68" control="36">
+    <next course-control="69" />
+  </course-control>
+  <course-control id="67" control="14">
+    <next course-control="68" />
+  </course-control>
+  <course-control id="62" control="48">
+    <next course-control="63" />
+  </course-control>
+  <course-control id="63" control="49">
+    <next course-control="26" />
+  </course-control>
+  <course-control id="66" control="51">
+    <next course-control="24" />
+  </course-control>
+  <course-control id="75" control="55">
+    <next course-control="78" />
+  </course-control>
+  <course-control id="76" control="16">
+    <next course-control="77" />
+  </course-control>
+  <course-control id="77" control="15" />
+  <course-control id="78" control="56">
+    <next course-control="76" />
+  </course-control>
+  <leg id="1" start-control="39" end-control="17">
+    <bends>
+      <location x="515.224731" y="237.5424" />
+      <location x="506.6705" y="242.6748" />
+    </bends>
+  </leg>
+  <special-object id="2" kind="line">
+    <appearance line-kind="dashed" color="purple" line-width="0.35" gap-size="0.5" dash-size="2" />
+    <location x="515.4911" y="216.554825" />
+    <location x="517.925659" y="209.472351" />
+    <location x="523.6802" y="205.045792" />
+    <location x="530.209351" y="200.287262" />
+    <location x="536.627869" y="191.102158" />
+    <location x="532.975952" y="181.917068" />
+    <location x="532.975952" y="172.399979" />
+    <location x="537.402466" y="172.17865" />
+    <location x="538.2878" y="160.226959" />
+    <location x="541.3864" y="152.148514" />
+    <location x="536.4065" y="148.607269" />
+    <location x="541.165039" y="141.635452" />
+    <location x="542.9567" y="133.946014" />
+    <location x="546.869263" y="136.919525" />
+    <location x="548.590759" y="145.057541" />
+    <location x="551.877258" y="151.943558" />
+    <courses all="true" />
+  </special-object>
+</course-scribe-event>
