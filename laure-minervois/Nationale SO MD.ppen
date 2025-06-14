@@ -4,7 +4,7 @@
     <map kind="bitmap" scale="10000" dpi="600" absolute-path="C:\Users\jeka\Documents\OpenHAB\source\omaps\laure-minervois\merged-map.png">merged-map.png</map>
     <standards map="2017" description="2018" />
     <all-controls print-scale="7500" description-kind="symbols" />
-    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="318.279572" right="599.990234" bottom="95.58506" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="311.851563" right="599.990234" bottom="89.15705" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
     <numbering start="31" disallow-invertible="false" />
     <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
     <course-appearance scale-sizes="RelativeToMap" scale-sizes-circle-gaps="true" number-font="Roboto" auto-leg-gap-size="3.5" blend-purple="true" blend-style="blend" />
@@ -210,24 +210,24 @@
     <options print-scale="7500" hide-from-reports="false" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
-    <name>3k</name>
+    <name>3k-MD</name>
     <labels label-kind="sequence" />
     <first course-control="65" />
-    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="322.574982" right="599.990234" bottom="99.88047" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="320.5496" right="599.990234" bottom="97.85508" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
     <options print-scale="7500" hide-from-reports="false" description-kind="symbols" />
   </course>
   <course id="3" kind="normal" order="3">
-    <name>2k</name>
+    <name>2k-MD</name>
     <labels label-kind="sequence" />
     <first course-control="32" />
     <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="322.080231" right="599.990234" bottom="99.38572" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
     <options print-scale="7500" hide-from-reports="false" description-kind="symbols" />
   </course>
   <course id="5" kind="normal" order="4">
-    <name>Vert</name>
+    <name>Vert-MD</name>
     <labels label-kind="sequence" />
     <first course-control="67" />
-    <print-area automatic="true" restrict-to-page-size="true" left="442.446747" top="318.279572" right="599.990234" bottom="95.58506" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <print-area automatic="true" restrict-to-page-size="true" left="430.400177" top="316.643066" right="587.943665" bottom="93.948555" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
     <options print-scale="7500" hide-from-reports="false" description-kind="symbols" />
   </course>
   <course-control id="1" control="1">
